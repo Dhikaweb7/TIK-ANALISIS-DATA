@@ -1,5 +1,5 @@
 # TIK-ANALISIS-DATA
-Bab Analisis data
+Bab Analisis data Teknik Informatika
 
 ## Array
 
