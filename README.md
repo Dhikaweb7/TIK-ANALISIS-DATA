@@ -1,5 +1,6 @@
 # TIK-ANALISIS-DATA
 Bab Analisis data Teknik Informatika
+Kelas X TKJ SMK RADEN PAKU
 
 ## Array
 
